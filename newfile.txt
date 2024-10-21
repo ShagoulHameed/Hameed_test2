@@ -1,1 +1,2 @@
 thisi new file on sub1
+git 
